@@ -1,4 +1,4 @@
 # Trash-Recognition
-This assignment is part of the Specialist Diploma in Generative Applied AI - Deep Learning Fundamentals
+This project is part of the Specialist Diploma in Generative Applied AI - Deep Learning Fundamentals
 
 Jeff. Facility waste management is currently facing a critical challenge of efficiently sorting diverse waste materials like batteries, color glass bottles, cardboard, metal, paper, palstics, etc. as manual sorting of the trash is labor-intensive and prone to human errors. However, using the automated process like computer vision and deep learning is the only potential solution, but training an authoritative model like Convolutional Neural Network (CNN) from scratch requires large-scaled of labeled image datasets and considerable the amount of training time. As such, this project aims to develop a sustainable approach for trash classification using the modern CNN - Transfer Learning to achieve effective classification with limited labeled datasets and also ultimately improve recycling rates and streamline waste processing. 
